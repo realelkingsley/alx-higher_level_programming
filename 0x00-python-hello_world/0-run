@@ -1,3 +1,2 @@
-#!/bin/sh
-
-python myscript.py
+#!/bin/bash
+phython3 ./$PYFILE
