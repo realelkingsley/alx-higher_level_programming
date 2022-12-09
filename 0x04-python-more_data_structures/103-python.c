@@ -52,7 +52,7 @@ void print_python_list(PyObject *p)
 	long int size, i;
 	PyListObject *list;
 	PyObject *obj;
-[I
+
 	size = ((PyVarObject *)(p))->ob_size;
 	list = (PyListObject *)p;
 
