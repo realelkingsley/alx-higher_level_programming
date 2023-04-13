@@ -1,0 +1,3 @@
+In this example, we have a dictionary called users that contains information about each user, such as their name, address, and the items they need to buy. We also have a list called helpers that contains information about each helper, such as their name, fee, maximum distance they are willing to travel, and the days they are available.
+
+We define a function called match_helper that takes a user as input and returns the helper that is the best match for that user, based on their availability and proximity. This function loops through the list of helpers and checks if each helper is available on the day the user needs help and if they are within the maximum
