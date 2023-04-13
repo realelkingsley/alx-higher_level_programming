@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# Import required libraries
 import random
 
 # Create a dictionary of users with their information
